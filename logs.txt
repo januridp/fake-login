@@ -1,0 +1,31 @@
+﻿name=januri
+email=janury.geek@gmail.com
+hp=089696159268
+alamat=peninggaran
+
+name=januri dwi
+email=januridp@hotmail.com
+hp=098888
+alamat=timur 3
+
+name=januri dwi
+email=janury.geek@gmail.com
+hp=098888
+alamat=maksmkd
+===============================
+name=januri
+email=janury.geek@gmail.com
+hp=089696159268
+alamat=sdsdsd
+===============================
+===============================
+name = 
+email = 
+hp = 
+alamat = 
+===============================
+name = januri
+email = mail@mail.com
+hp = 021123456
+alamat = jalan raya
+===============================
